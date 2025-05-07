@@ -18,3 +18,6 @@ This project is a full-stack AI-powered query assistant that combines **automate
 
 - **Frontend Interface**  
   A user-friendly web interface allows real-time querying and displays concise answers based on relevant documents.
+
+***Prerequisite:-
+in your project terminal -> bash -> playwright install 
